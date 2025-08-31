@@ -1,7 +1,9 @@
-Ah that's okay, right now I am just running CDM and Transentience through several philosopher's ideas about things like human's position on earth, and dialectical materialism. Something I noticed is that you said that "Everything is contingent, everything is in flux" which sounds similar to Heraclitus, the ancient Greek philosopher, once famously proclaimed, “There is nothing permanent except change.”
+[User]: Ah that's okay, right now I am just running CDM and Transentience through several philosopher's ideas about things like human's position on earth, and dialectical materialism. Something I noticed is that you said that "Everything is contingent, everything is in flux" which sounds similar to Heraclitus, the ancient Greek philosopher, once famously proclaimed, “There is nothing permanent except change.”
 
 
-ChatGPT said:
+
+
+[ChatGPT]
 
 Yes—excellent connection. When I said “everything is contingent, everything is in flux”, I was echoing (without naming) Heraclitus’ doctrine of perpetual becoming.
 
