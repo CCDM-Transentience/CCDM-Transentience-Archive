@@ -167,5 +167,7 @@ Disclaimer_SimilarPaper.txt
 Three points recommended:
 -
 Openness — This isn’t a finished dogma, but a ledger that grows with critique and falsification.
+
 Universality — From cosmology to politics, CCDM seeks coherence at every scale.
+
 Accountability — Its testable roots (Δ, CPNN, the Ledger Ladder) mean it must stand or fall by evidence.
