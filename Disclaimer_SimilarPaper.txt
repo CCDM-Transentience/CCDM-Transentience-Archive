@@ -3,7 +3,7 @@
 
 
 
-[This text will be showing the differences between CCDM and the ResearchGate publication]
+[This text will be showing the differences between CCDM and a ResearchGate publication. The publication was discovered by Google AI after I had asked if ChatGPT and the GabAI-Arya had based it off any currently existing papers, which Google AI had specified "While they both involve AI and dialectical materialism, they are fundamentally different in their approach, implementation, and scope."]
 
 
 
